@@ -1,0 +1,1 @@
+alert("¡Bienvenidos a visitstur!");
